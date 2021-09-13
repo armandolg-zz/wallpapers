@@ -1,1 +1,1 @@
-# Entire wallpaper directory.
+# wallpapers
